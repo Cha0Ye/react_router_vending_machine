@@ -7,7 +7,7 @@ import './NavBar.css';
 class NavBar extends Component {
     render() {
         return (
-            <nav>
+            <nav className="vending-nav">
                 <NavLink exact to="/">Home</NavLink>
                 <NavLink exact to="/soda">Soda</NavLink>
                 <NavLink exact to="/chips">Chips</NavLink>

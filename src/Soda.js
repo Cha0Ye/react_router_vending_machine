@@ -9,7 +9,6 @@ class Soda extends Component {
                 <div>
                     <h1>OMG SSSSUUUUUGAR</h1>
                     <p><Link to="/"> GO BAAAAACK</Link></p>
-
                 </div>
             </div>
         );
