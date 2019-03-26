@@ -1,0 +1,13 @@
+import React, { Component } from 'react';
+
+class Chips extends Component {
+    render() {
+        return (
+            <div>
+                
+            </div>
+        );
+    }
+}
+
+export default Chips;

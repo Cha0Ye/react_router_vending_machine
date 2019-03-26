@@ -5,7 +5,7 @@ class Home extends Component {
         return (
             <div>
                 <h2>Vending Machine</h2>
-                <img src="https://cdn-images-1.medium.com/max/1600/1*6daVASIQ_gt916KRq2fWTA.jpeg" alt="Vending Machine" />
+                <img src="https://cdn-images-1.medium.com/max/1600/1*6daVASIQ_gt916KRq2fWTA.jpeg" height="700px" alt="Vending Machine" />
             </div>
         );
     }
